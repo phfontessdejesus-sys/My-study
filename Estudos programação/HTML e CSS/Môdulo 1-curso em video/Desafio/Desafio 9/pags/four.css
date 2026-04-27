@@ -1,0 +1,10 @@
+:root{
+    font-family: poppins;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+
+}

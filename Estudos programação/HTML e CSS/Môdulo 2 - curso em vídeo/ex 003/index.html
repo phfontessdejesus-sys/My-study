@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tamanho da fonte</title>
+    <style>
+        body{
+            background-color: #fff;
+            font-family: Arial, Helvetica, sans-serif;
+            /*
+            Medidas absolutas
+            cm, mm, pt,px, pc
+
+            Medidas relativas
+            em, ex, rem,vw, vh, %
+            */
+            font-size:16px; /*Tamanho padrão e recomendado(16px = 1em)*/
+            font-weight: normal;
+            /*Normal = normal / lighter = magrinha / bold = mais escura / bolder = mais negrito*/
+            /*Podemos colocar de 100 em 100 (lighter = 100)*/
+            font-style:italic; /*Coloca estilo de fonte*/
+            text-decoration: underline; /*Sublinhado*/
+
+            /*Dá para colocar tudo de uma vez só, mas precisa seguir uma ordem:
+            font-style -> font-weight -> font-size - font-family
+            exemplo:
+
+            font: italic bolder 2em sans-serif;
+            */
+
+            @font-face { /*Adicionar fontes baixadas*/
+                font-family: ;
+                src: url() format(), url()/*Colocar outra url*/;
+
+                /*Tipos de format()
+
+                opentype- (otf)
+                truetype- (ttf)
+                embedded-opentype- opentype
+                truetype-aat- (apple advance Typography)
+                svg
+
+                */
+
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Fontes</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi, autem assumenda inventore, id aperiam qui minima, nobis minus nostrum harum nihil pariatur itaque quia maiores soluta ipsum amet voluptates adipisci.</p>
+</body>
+</html>

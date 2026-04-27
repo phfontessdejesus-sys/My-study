@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+/* 
+Html id é # em CSS - apenas um
+HTML class é . em CSS - pode fazer com vários
+*/
+
+body{
+    background-color:#fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: blueviolet;
+}
+h1#principal{
+    text-align:center;
+}
+h2{
+    color: black;
+}

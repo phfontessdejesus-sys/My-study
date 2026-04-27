@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DevDojo.iml" filepath="$PROJECT_DIR$/DevDojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturadeCondicao/EstruturadeCondicao.iml" filepath="$PROJECT_DIR$/EstruturadeCondicao/EstruturadeCondicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchCondicionais/SwitchCondicionais.iml" filepath="$PROJECT_DIR$/SwitchCondicionais/SwitchCondicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicioAula26/exercicioAula26.iml" filepath="$PROJECT_DIR$/exercicioAula26/exercicioAula26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicioAula28/exercicioAula28.iml" filepath="$PROJECT_DIR$/exercicioAula28/exercicioAula28.iml" />
+    </modules>
+  </component>
+</project>

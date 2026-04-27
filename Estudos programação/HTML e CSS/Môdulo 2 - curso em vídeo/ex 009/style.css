@@ -1,0 +1,13 @@
+h1{
+    background-color:lightgray;
+    height: 150px;
+    width:300px;
+
+    border:10px;
+    border-style: solid;
+    border-color: blueviolet;
+
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+}

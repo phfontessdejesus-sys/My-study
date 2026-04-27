@@ -1,0 +1,18 @@
+:root{
+    font-family: poppins;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+button{
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+}
